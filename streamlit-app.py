@@ -1,7 +1,7 @@
 import streamlit as st
 from orchestrator import run_workflow
 
-st.title("🧩 RoseTech-Multi-Agent AI Workflow App (Windows Local)")
+st.title("🧩 RoseTech-Multi-Agent-Workflow-App")
 
 user_request = st.text_input("Enter a task for the agents:")
 
