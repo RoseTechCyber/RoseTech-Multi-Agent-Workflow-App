@@ -35,11 +35,7 @@ Install dependencies.
 
 Launch the Streamlit app.
 
-Your browser will open with the Multi‑Agent Demo UI.
-
-
-
-
+Your browser will open with the Multi‑Agent App UI.
 
 ✅ Result
 No manual typing needed.
